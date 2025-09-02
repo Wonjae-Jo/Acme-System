@@ -4,9 +4,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello from Eclips");
-		System.out.println("Wonjae is working locally on his branch");
-
+		System.out.println("Person 2 is at work!");
 	}
 
 }
